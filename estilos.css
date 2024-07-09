@@ -1,0 +1,40 @@
+.floating-counter {
+    background-color: #284ece;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 1px;
+}
+
+.floating-buttons {
+    display: flex;
+    flex-direction: row-reverse;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: #284fce00;
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    user-select: none;
+    z-index: 1000;
+}
+
+.btn {
+    background-color: #3f67ee;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 1px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #284ece;
+
+}
