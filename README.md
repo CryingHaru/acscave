@@ -1,1 +1,1 @@
-# PROYECTO N1 by HaruCraft
+# Repositorio publico para hosteo de utilidades
